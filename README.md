@@ -20,7 +20,7 @@ I'm a Computer Science and Engineering student with a passion for web developmen
 
 ## LeetCode Solutions
 
-[![LeetCode Stats](https://leetcode-badge.com/mem/IamYourUsername.svg)](https://leetcode.com/svsudharsan2003/)
+[![LeetCode Stats](https://leetcode-badge.com/mem/svsudharsan2003.svg)](https://leetcode.com/svsudharsan2003/)
 
 
 
