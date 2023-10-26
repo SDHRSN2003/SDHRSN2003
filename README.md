@@ -24,7 +24,7 @@ Check out my [GitHub repositories](https://github.com/SDHRSN2003) for projects a
 
 ## Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/sudharsan-s-v-93505827b/)
+- LinkedIn: [MyLinkedIn Profile](https://www.linkedin.com/in/sudharsan-s-v-93505827b/)
 - Email: [svsudharsan2003@gmail.com]
 - GitHub: [Your GitHub Profile](https://github.com/SDHRSN2003)
 
