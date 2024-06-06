@@ -18,9 +18,6 @@ I'm a Computer Science and Engineering student with a passion for web developmen
 - **Database:** MongoDB
 - **Tools and Technologies:** Git, VS Code, Node.js
 
-## Leetcode stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/svsudharsan2003?theme=dark&font=Noto%20Sans%20Khmer)
-
 Check out my [GitHub repositories](https://github.com/SDHRSN2003) for projects and contributions.
 
 
